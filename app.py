@@ -1,7 +1,7 @@
 import os
 from openpyxl import Workbook
 
-dir_search = "./portfolio"
+dir_search = "./Archivos_vinculados"
 string_match = ""
 string_replace = ""
 extensions = [".xls",".xlsx"]
